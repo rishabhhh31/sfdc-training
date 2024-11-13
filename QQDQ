@@ -1,0 +1,29 @@
+[33mcommit dcbe3e67ad539502190fa30211ffecff2c0aa8e4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msoql-branch[m[33m)[m
+Author: rishabhhh31 <152844982+rishabhhh31@users.noreply.github.com>
+Date:   Wed Nov 13 22:20:27 2024 +0530
+
+    Add space for readability
+
+[33mcommit 5cb39864aca3b4bde6302282a526db7b1134ed2a[m
+Author: Rishabh Jain <rishabh3123jain@gmail.com>
+Date:   Sun Nov 10 00:38:07 2024 +0530
+
+    alias to soql
+
+[33mcommit 2829a362e098058306a05f211adf0a49d2938112[m
+Author: rishabhhh31 <152844982+rishabhhh31@users.noreply.github.com>
+Date:   Sun Nov 10 00:26:23 2024 +0530
+
+    add Name in SOQL
+
+[33mcommit 976dbc77292317091024d8fdd92dfabf068f3ac8[m
+Author: Rishabh Jain <rishabh3123jain@gmail.com>
+Date:   Sat Nov 9 23:26:06 2024 +0530
+
+    add list account
+
+[33mcommit b024a614a024135633370d03b3f30a1b14e93a51[m
+Author: Rishabh Jain <rishabh3123jain@gmail.com>
+Date:   Sat Nov 9 23:00:25 2024 +0530
+
+    Initial commit
