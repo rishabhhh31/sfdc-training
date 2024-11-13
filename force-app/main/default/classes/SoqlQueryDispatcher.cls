@@ -2,6 +2,6 @@ public with sharing class SoqlQueryDispatcher {
     public static void countContactOfAccountAlias(){
         //defining alias for fields and object
         Integer contactCount = [SELECT count() FROM Contact c, c.Account a WHERE a.Name LIKE 'Uni%'];
-        System.debug('count => '+contactCount);
+        System.debug('contactCount => '+contactCount);
     }
 }
